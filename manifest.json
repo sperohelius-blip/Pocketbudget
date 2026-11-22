@@ -1,7 +1,7 @@
 {
   "name": "Рабочий график и бюджет",
   "short_name": "Бюджет",
-  "id": "/",
+  "id": "./",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
